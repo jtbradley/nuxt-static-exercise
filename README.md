@@ -1,4 +1,4 @@
-# learning
+# Nuxt - Static Generating Exercise
 
 > My wicked Nuxt.js project
 
